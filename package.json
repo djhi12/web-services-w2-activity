@@ -27,6 +27,7 @@
     "swagger-ui-express": "^4.3.0"
   },
   "devDependencies": {
+    "eslint": "^8.49.0",
     "swagger-autogen": "^2.19.0"
   }
 }
